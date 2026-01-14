@@ -1,6 +1,9 @@
 ---
 
-# 🧠 Intelli Learn
+---
+title: "Intelli Learn"
+description: "AI-powered visual learning & quiz platform"
+---
 
 ### AI-Powered Visual Learning & Quiz Platform
 
