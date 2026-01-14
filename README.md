@@ -1,9 +1,9 @@
 ---
-
----
 title: "Intelli Learn"
-description: "AI-powered visual learning & quiz platform"
+description: "AI-powered visual learning and quiz platform built at HenHacks 2024"
+author: "Mohammed Touheed Patel"
 ---
+# 🧠 Intelli Learn
 
 ### AI-Powered Visual Learning & Quiz Platform
 
